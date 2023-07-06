@@ -221,9 +221,6 @@ gltfLoader.load(
     
 )
 
-
-
-
 /**
  * Sizes
  */
